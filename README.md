@@ -23,7 +23,7 @@ Installing Muos
 Released resourcepack downloading links:
 
 * CurseForge - *Link Unavailable*
-* [GitHub](https://github.com/Qeatrix/Muos)
+* [GitHub](https://github.com/Qeatrix/Muos/releases)
 
 ### Installing
 
