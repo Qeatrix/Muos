@@ -21,10 +21,6 @@ Released resourcepack downloading links:
 * CurseForge - *Link Unavailable*
 * [GitHub](https://github.com/Qeatrix/Muos)
 
-Unreleased resourcepack downloading links:
-
-* [GitHub](https://github.com/Qeatrix/Muos/tree/unreleased) - *Unreleased branch*
-
 ### Installing
 
 * Paste this line into the explorer
