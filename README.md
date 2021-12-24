@@ -1,8 +1,12 @@
 <h1 align="center">Muos</h1>
 
 <p align="center">
+  <img src="https://github.com/Qeatrix/Muos/blob/main/Muos_LogoRounded.png" width="275" title="Muos ResourcePack">
+</p>
 
-<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Qeatrix/Muos">
+<p align="center">
+
+<img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/Qeatrix/Muos?include_prereleases">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Qeatrix/Muos">
 <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Qeatrix/Muos/total">
 
