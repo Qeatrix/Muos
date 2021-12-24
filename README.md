@@ -8,7 +8,7 @@
 
 </p>
 
-The Muos resource pack replaces all environment music and contains new Ambient effects that you'll love. This is where the new Minecraft begins.
+The Muos resourcepack replaces all environment music and contains new ambient effects that you'll love. This is where the new Minecraft begins.
 
 ## Getting Started
 
